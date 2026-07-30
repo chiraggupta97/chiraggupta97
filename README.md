@@ -21,15 +21,6 @@ Hi 👋
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=chiraggupta97&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/followers/chiraggupta97?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/chiraggupta97?style=for-the-badge"/>
-
-</p>
 
 ---
 <p align="center">
